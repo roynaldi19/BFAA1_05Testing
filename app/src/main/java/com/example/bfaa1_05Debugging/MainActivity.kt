@@ -1,4 +1,4 @@
-package com.example.bfaa1_05testing
+package com.example.bfaa1_05Debugging
 
 import android.os.Bundle
 import android.util.Log
@@ -7,6 +7,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
+import com.example.bfaa1_05testing.R
 
 class MainActivity : AppCompatActivity() {
 
